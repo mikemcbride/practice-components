@@ -1,4 +1,4 @@
-import { screen, render, fireEvent } from '@testing-library/vue'
+import { render, fireEvent } from '@testing-library/vue'
 import { describe, it, expect } from 'vitest'
 import MyAccordion from '../MyAccordion.vue'
 
